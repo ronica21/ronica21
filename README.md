@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ronica</h1>
+<h1 align="center">Hi 👋, I'm Ronica!</h1>
 <h3 align="center">I'm currently pursuing my Master's in Data Science at the University of San Francisco, CA.</h3>
 
 - I an a business analyst turned data scientist! I did my undergrad in Electrical Engineering. <br>
